@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "81b4c4b49e61ff45",
+        "id": "b0dc3e9cd5b5780f",
         "type": "tabs",
         "children": [
           {
-            "id": "259e01de6b0a91a9",
+            "id": "6ce0bc8acde4e9d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Prototypes and Post-it Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Prototypes and Post-it Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Prototypes and Post-it Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Prototypes and Post-it Notes.md"
               }
             }
           },
@@ -154,8 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f0d951872b2ad28",
+  "active": "6ce0bc8acde4e9d0",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "Prototypes and Post-it Notes.md",
+    "Orthogonality.md",
+    "Tracer Bullets.md",
+    "Reversibility.md",
+    "DRY - The Evils of Duplication.md"
   ]
 }
