@@ -18,4 +18,5 @@ My notes for "A Pragmatic Programmer". Best viewed with Obsidian
 	4. [[Reversibility]]
 	5. [[Tracer Bullets]]
 	6. [[Prototypes and Post-it Notes]]
-	7. 
+	7. [[Domain Languages]]
+	8. [[Estimating]]
