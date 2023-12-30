@@ -20,3 +20,10 @@ My notes for "A Pragmatic Programmer". Best viewed with Obsidian
 	6. [[Prototypes and Post-it Notes]]
 	7. [[Domain Languages]]
 	8. [[Estimating]]
+3. The Basic Tools
+	1. [[The Power of Plain Text]]
+	2. [[Shell Games]]
+	3. [[Power Editing]]
+	4. [[Version Control]]
+	5. [[Debugging]]
+	6. [[Text Manipulation]]
