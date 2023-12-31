@@ -32,3 +32,5 @@ My notes for "A Pragmatic Programmer." Best viewed with Obsidian
 	3. [[Assertive Programming]]
 	4. [[How to Balance Resources]]
 	5. [[Don't Outrun Your Headlights]]
+5. Bend or Break
+	1. [[Decoupling]]

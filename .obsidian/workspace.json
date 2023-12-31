@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "989e5cc938e65eac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 4. Pragmatic Paranoia/Don't Outrun Your Headlights.md",
+                "file": "Chapter 5. Bend or Break/Decoupling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 4. Pragmatic Paranoia/Don't Outrun Your Headlights.md",
+                "file": "Chapter 5. Bend or Break/Decoupling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 4. Pragmatic Paranoia/Don't Outrun Your Headlights.md",
+                "file": "Chapter 5. Bend or Break/Decoupling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 4. Pragmatic Paranoia/Don't Outrun Your Headlights.md"
+                "file": "Chapter 5. Bend or Break/Decoupling.md"
               }
             }
           },
@@ -167,9 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f0d951872b2ad28",
+  "active": "71c07285f625b706",
   "lastOpenFiles": [
+    "Chapter 5. Bend or Break",
     "README.md",
+    "Chapter 5. Bend or Break/Decoupling.md",
     "Chapter 4. Pragmatic Paranoia/Don't Outrun Your Headlights.md",
     "Chapter 4. Pragmatic Paranoia/How to Balance Resources.md",
     "Chapter 4. Pragmatic Paranoia",
