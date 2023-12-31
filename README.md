@@ -1,7 +1,5 @@
 ## About
-My notes for "A Pragmatic Programmer". Best viewed with Obsidian
-
-
+My notes for "A Pragmatic Programmer." Best viewed with Obsidian
 ## Table of Contents
 1. A Pragmatic Philosophy
 	1. [[It's Your Life]]
@@ -27,3 +25,10 @@ My notes for "A Pragmatic Programmer". Best viewed with Obsidian
 	4. [[Version Control]]
 	5. [[Debugging]]
 	6. [[Text Manipulation]]
+	7. [[Engineering Daybooks]]
+4. Pragmatic Paranoia
+	1. [[Design by Contract]]
+	2. [[Dead Program Tell No Lies]]
+	3. [[Assertive Programming]]
+	4. [[How to Balance Resources]]
+	5. [[Don't Outrun Your Headlights]]
