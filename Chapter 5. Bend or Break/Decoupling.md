@@ -20,3 +20,16 @@ totals.discount = discount;
 * Say you need to add a max discount limit. Where do you add this change?
 	* Totals can be modified by anyone, so this change needs to be added in different places
 * Totals should be handling updating the totals yet anyone can query and update it
+* To fix this, apply the **tell, don't ask** approach
+	* Don't look at the state of an object and then update it
+* To fix the above example:
+```
+public void applyDiscount(customer, order_id, discount) {
+
+	customer
+		.orders
+		.find(order_id)
+		.getTotals()
+		.applyDiscount(discount);
+}
+```
