@@ -1,6 +1,5 @@
 ## About
 My notes for "A Pragmatic Programmer." Best viewed with Obsidian
-
 ## Todo
  * Go back and change formatting of heading and subheadings
  * Add backlinks to chapters
