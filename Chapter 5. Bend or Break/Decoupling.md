@@ -33,3 +33,40 @@ public void applyDiscount(customer, order_id, discount) {
 		.applyDiscount(discount);
 }
 ```
+* Now, the totals object handles applying the discount rather than us modifying it
+* We should apply the same logic to the customers where we find the order we want directly rather than going through all the orders
+```
+public void applyDiscount(customer, order_id, discount) {
+
+	customer
+		.findOrders(order_id)
+		.getTotals()
+		.applyDiscount(discount);
+}
+```
+* Take things up a notch and encapsulate the getTotals part"
+```
+public void applyDiscount(customer, order_id, discount) {
+
+	customer
+		.findOrders(order_id)
+		.applyDiscount(discount);
+}
+```
+## The Law of Demeter
+* A method defined in a class C should only call
+	* Other instance methods in C
+	* Its parameters
+	* Methods in objects that it creates, both on the stack and in the heap
+	* Global variables
+* The above law is a little strict and not practical for all scenarios
+* **New suggestion:** Try to limit the number of method calls you make
+	* Don't want a long chain of them
+	* Don't have a sequence where you create an object, then invoke a method, and then use the results to invoke another method, and so on either
+## The Evils of Globalization
+* Global data are a huge source of coupling
+* Think of it as an additional parameter that can be passed in every method that of that module
+* Refactoring requires you to find all instances
+* This includes Singletons and external resources (API's, DBs, etc)
+	* Wrap this behind code you control
+* If its important to be global, wrap it in an API
