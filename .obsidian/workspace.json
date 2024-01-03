@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "98a4f3073616c9a4",
+        "id": "7d75f1023c72e228",
         "type": "tabs",
         "children": [
           {
-            "id": "71c07285f625b706",
+            "id": "ebe43ba35dfc3145",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Chapter 5. Bend or Break/Transformative Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Chapter 5. Bend or Break/Transformative Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Chapter 5. Bend or Break/Transformative Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Chapter 5. Bend or Break/Transformative Programming.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,11 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71c07285f625b706",
+  "active": "ebe43ba35dfc3145",
   "lastOpenFiles": [
+    "Chapter 5. Bend or Break/Juggling the Real World.md",
     "Chapter 5. Bend or Break/Decoupling.md",
-    "Chapter 5. Bend or Break",
+    "Chapter 5. Bend or Break/Transformative Programming.md",
     "README.md",
+    "Chapter 5. Bend or Break",
     "Chapter 4. Pragmatic Paranoia/Don't Outrun Your Headlights.md",
     "Chapter 4. Pragmatic Paranoia/How to Balance Resources.md",
     "Chapter 4. Pragmatic Paranoia",

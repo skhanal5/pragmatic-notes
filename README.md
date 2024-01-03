@@ -37,3 +37,5 @@ My notes for "A Pragmatic Programmer." Best viewed with Obsidian
 	5. [[Don't Outrun Your Headlights]]
 5. Bend or Break
 	1. [[Decoupling]]
+	2. [[Juggling the Real World]]
+	3. [[Transformative Programming]]
