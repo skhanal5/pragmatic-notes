@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 5. Bend or Break/Decoupling.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 5. Bend or Break/Decoupling.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 5. Bend or Break/Decoupling.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 5. Bend or Break/Decoupling.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,9 +156,9 @@
   },
   "active": "71c07285f625b706",
   "lastOpenFiles": [
+    "Chapter 5. Bend or Break/Decoupling.md",
     "Chapter 5. Bend or Break",
     "README.md",
-    "Chapter 5. Bend or Break/Decoupling.md",
     "Chapter 4. Pragmatic Paranoia/Don't Outrun Your Headlights.md",
     "Chapter 4. Pragmatic Paranoia/How to Balance Resources.md",
     "Chapter 4. Pragmatic Paranoia",

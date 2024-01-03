@@ -1,5 +1,9 @@
 ## About
 My notes for "A Pragmatic Programmer." Best viewed with Obsidian
+
+## Todo
+ * Go back and change formatting of heading and subheadings
+ * Add backlinks to chapters
 ## Table of Contents
 1. A Pragmatic Philosophy
 	1. [[It's Your Life]]
