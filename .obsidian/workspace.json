@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 5. Bend or Break/Transformative Programming.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55c60984594de8b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 5. Bend or Break/Configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e5b283349f1dd80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 5. Bend or Break/Configuration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 5. Bend or Break/Transformative Programming.md",
+                "file": "Chapter 5. Bend or Break/Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 5. Bend or Break/Transformative Programming.md",
+                "file": "Chapter 5. Bend or Break/Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 5. Bend or Break/Transformative Programming.md"
+                "file": "Chapter 5. Bend or Break/Configuration.md"
               }
             }
           },
@@ -154,12 +179,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebe43ba35dfc3145",
+  "active": "4e5b283349f1dd80",
   "lastOpenFiles": [
-    "Chapter 5. Bend or Break/Juggling the Real World.md",
-    "Chapter 5. Bend or Break/Decoupling.md",
-    "Chapter 5. Bend or Break/Transformative Programming.md",
     "README.md",
+    "Chapter 5. Bend or Break/Configuration.md",
+    "Chapter 5. Bend or Break/Inheritance Tax.md",
+    "Chapter 5. Bend or Break/Transformative Programming.md",
+    "Chapter 5. Bend or Break/Decoupling.md",
+    "Chapter 5. Bend or Break/Juggling the Real World.md",
     "Chapter 5. Bend or Break",
     "Chapter 4. Pragmatic Paranoia/Don't Outrun Your Headlights.md",
     "Chapter 4. Pragmatic Paranoia/How to Balance Resources.md",
