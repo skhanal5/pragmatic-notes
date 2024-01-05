@@ -41,3 +41,5 @@ My notes for "A Pragmatic Programmer." Best viewed with Obsidian
 	3. [[Transformative Programming]]
 	4. [[Inheritance Tax]]
 	5. [[Configuration]]
+6. Concurrency
+	0. [[Aside]]

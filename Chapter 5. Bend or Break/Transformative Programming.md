@@ -33,5 +33,5 @@
 * One way of handling this is:
 	* for each function in the chain, have a duplicate function that takes in the error "wrapper" as a argument in place of a value
 	* When that error function runs, it will return the error forward
-#### Or Handle It in the Pipeline
+### Or Handle It in the Pipeline
 * Think of Elixir's pipeline operator, now imagine it had a way of knowing about the error/value wrappers and can short circuit execution s.t. when we get an error

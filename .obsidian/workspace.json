@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7d75f1023c72e228",
+        "id": "63d00e42df56c031",
         "type": "tabs",
         "children": [
           {
-            "id": "ebe43ba35dfc3145",
+            "id": "6cfcc4a21a75fcc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55c60984594de8b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 5. Bend or Break/Configuration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e5b283349f1dd80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 5. Bend or Break/Configuration.md",
+                "file": "Chapter 6. Concurrency/Blackboards.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 5. Bend or Break/Configuration.md",
+                "file": "Chapter 6. Concurrency/Blackboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 5. Bend or Break/Configuration.md",
+                "file": "Chapter 6. Concurrency/Blackboards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 5. Bend or Break/Configuration.md"
+                "file": "Chapter 6. Concurrency/Blackboards.md"
               }
             }
           },
@@ -167,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,14 +154,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e5b283349f1dd80",
+  "active": "6cfcc4a21a75fcc0",
   "lastOpenFiles": [
+    "Chapter 5. Bend or Break/Transformative Programming.md",
+    "Chapter 5. Bend or Break/Juggling the Real World.md",
     "README.md",
+    "Chapter 6. Concurrency/Actors and Processes.md",
+    "Chapter 6. Concurrency/Shared State is Incorrect State.md",
+    "Chapter 6. Concurrency/Breaking Temporal Coupling.md",
+    "Chapter 6. Concurrency/Aside.md",
+    "Chapter 6. Concurrency/Blackboards.md",
+    "Chapter 6. Concurrency",
     "Chapter 5. Bend or Break/Configuration.md",
     "Chapter 5. Bend or Break/Inheritance Tax.md",
-    "Chapter 5. Bend or Break/Transformative Programming.md",
     "Chapter 5. Bend or Break/Decoupling.md",
-    "Chapter 5. Bend or Break/Juggling the Real World.md",
     "Chapter 5. Bend or Break",
     "Chapter 4. Pragmatic Paranoia/Don't Outrun Your Headlights.md",
     "Chapter 4. Pragmatic Paranoia/How to Balance Resources.md",
@@ -206,10 +187,6 @@
     "Chapter 3. The Basic Tools/Shell Games.md",
     "Chapter 2. A Pragmatic Approach/Reversibility.md",
     "Chapter 2. A Pragmatic Approach/Prototypes and Post-it Notes.md",
-    "Chapter 3. The Basic Tools/Power Editing.md",
-    "Chapter 2. A Pragmatic Approach/Estimating.md",
-    "Chapter 2. A Pragmatic Approach/Domain Languages.md",
-    "Chapter 3. The Basic Tools/The Power of Plain Text.md",
-    "DRY - The Evils of Duplication.md"
+    "Chapter 3. The Basic Tools/Power Editing.md"
   ]
 }
