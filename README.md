@@ -43,3 +43,9 @@ My notes for "A Pragmatic Programmer." Best viewed with Obsidian
 	5. [[Configuration]]
 6. Concurrency
 	0. [[Aside]]
+	1. [[Breaking Temporal Coupling]]
+	2. [[Shared State is Incorrect State]]
+	3. [[Actors and Processes]]
+	4. [[Blackboards]]
+7. While You Are Coding
+8. 

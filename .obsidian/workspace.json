@@ -13,13 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 6. Concurrency/Blackboards.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a09485de194e6129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 7. While You Are Coding/Listen to Your Lizard Brain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd790b0ac6c135e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 7. While You Are Coding/Programming by Coincidence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d07b53b29459e8d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 7. While You Are Coding/Algorithm Speed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b42408536d77e892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 7. While You Are Coding/Refactoring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a76678557ab98054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 7. While You Are Coding/Test to Code.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 6. Concurrency/Blackboards.md",
+                "file": "Chapter 7. While You Are Coding/Test to Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 6. Concurrency/Blackboards.md",
+                "file": "Chapter 7. While You Are Coding/Test to Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 6. Concurrency/Blackboards.md"
+                "file": "Chapter 7. While You Are Coding/Test to Code.md"
               }
             }
           },
@@ -154,16 +215,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cfcc4a21a75fcc0",
+  "active": "6f0d951872b2ad28",
   "lastOpenFiles": [
+    "Chapter 7. While You Are Coding/Refactoring.md",
+    "Chapter 7. While You Are Coding/Test to Code.md",
+    "Chapter 7. While You Are Coding/Algorithm Speed.md",
+    "Chapter 7. While You Are Coding/Programming by Coincidence.md",
+    "Chapter 7. While You Are Coding/Listen to Your Lizard Brain.md",
+    "README.md",
+    "Chapter 6. Concurrency/Blackboards.md",
+    "Chapter 7. While You Are Coding",
     "Chapter 5. Bend or Break/Transformative Programming.md",
     "Chapter 5. Bend or Break/Juggling the Real World.md",
-    "README.md",
     "Chapter 6. Concurrency/Actors and Processes.md",
     "Chapter 6. Concurrency/Shared State is Incorrect State.md",
     "Chapter 6. Concurrency/Breaking Temporal Coupling.md",
     "Chapter 6. Concurrency/Aside.md",
-    "Chapter 6. Concurrency/Blackboards.md",
     "Chapter 6. Concurrency",
     "Chapter 5. Bend or Break/Configuration.md",
     "Chapter 5. Bend or Break/Inheritance Tax.md",
@@ -182,11 +249,6 @@
     "Chapter 4. Pragmatic Paranoia/Design by Contract.md",
     "Chapter 3. The Basic Tools/Engineering Daybooks.md",
     "Chapter 3. The Basic Tools/Debugging.md",
-    "Chapter 3. The Basic Tools/Version Control.md",
-    "Chapter 2. A Pragmatic Approach/Tracer Bullets.md",
-    "Chapter 3. The Basic Tools/Shell Games.md",
-    "Chapter 2. A Pragmatic Approach/Reversibility.md",
-    "Chapter 2. A Pragmatic Approach/Prototypes and Post-it Notes.md",
-    "Chapter 3. The Basic Tools/Power Editing.md"
+    "Chapter 3. The Basic Tools/Version Control.md"
   ]
 }
