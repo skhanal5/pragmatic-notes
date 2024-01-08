@@ -78,9 +78,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "196feb1a57fbb32d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 7. While You Are Coding/Property-Based Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e7ce7acdeef5b75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 7. While You Are Coding/Stay Safe Out There.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d648bc8587feda0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 8. Before the Project/The Requirements Pit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -146,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 7. While You Are Coding/Test to Code.md",
+                "file": "Chapter 8. Before the Project/The Requirements Pit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 7. While You Are Coding/Test to Code.md",
+                "file": "Chapter 8. Before the Project/The Requirements Pit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 7. While You Are Coding/Test to Code.md"
+                "file": "Chapter 8. Before the Project/The Requirements Pit.md"
               }
             }
           },
@@ -217,12 +253,18 @@
   },
   "active": "6f0d951872b2ad28",
   "lastOpenFiles": [
+    "Chapter 8. Before the Project",
+    "README.md",
+    "Chapter 8. Before the Project/The Requirements Pit.md",
+    "Chapter 7. While You Are Coding/Naming Things.md",
+    "The Essence of Good Design.md",
+    "Chapter 7. While You Are Coding/Stay Safe Out There.md",
+    "Chapter 7. While You Are Coding/Property-Based Testing.md",
     "Chapter 7. While You Are Coding/Refactoring.md",
     "Chapter 7. While You Are Coding/Test to Code.md",
     "Chapter 7. While You Are Coding/Algorithm Speed.md",
     "Chapter 7. While You Are Coding/Programming by Coincidence.md",
     "Chapter 7. While You Are Coding/Listen to Your Lizard Brain.md",
-    "README.md",
     "Chapter 6. Concurrency/Blackboards.md",
     "Chapter 7. While You Are Coding",
     "Chapter 5. Bend or Break/Transformative Programming.md",
@@ -243,12 +285,6 @@
     "Chapter 2. A Pragmatic Approach/Orthogonality.md",
     "Chapter 2. A Pragmatic Approach",
     "Chapter 1. A Pragmatic Philosophy",
-    "Chapter 4. Pragmatic Paranoia/Assertive Programming.md",
-    "Chapter 3. The Basic Tools/Text Manipulation.md",
-    "Chapter 4. Pragmatic Paranoia/Dead Program Tell No Lies.md",
-    "Chapter 4. Pragmatic Paranoia/Design by Contract.md",
-    "Chapter 3. The Basic Tools/Engineering Daybooks.md",
-    "Chapter 3. The Basic Tools/Debugging.md",
-    "Chapter 3. The Basic Tools/Version Control.md"
+    "Chapter 4. Pragmatic Paranoia/Assertive Programming.md"
   ]
 }

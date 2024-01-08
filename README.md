@@ -48,4 +48,16 @@ My notes for "A Pragmatic Programmer." Best viewed with Obsidian
 	3. [[Actors and Processes]]
 	4. [[Blackboards]]
 7. While You Are Coding
-8. 
+	1. [[Listen to Your Lizard Brain]]
+	2. [[Programming by Coincidence]]
+	3. [[Algorithm Speed]]
+	4. [[Refactoring]]
+	5. [[Test to Code]]
+	6. [[Property-Based Testing]]
+	7. [[Stay Safe Out There]]
+	8. [[Naming Things]]
+8. Before the Project
+	1. [[The Requirements Pit]]
+	2. [[Solving Impossible Puzzles]]
+	3. [[Working Together]]
+	4. [[The Essence of Agility]]
